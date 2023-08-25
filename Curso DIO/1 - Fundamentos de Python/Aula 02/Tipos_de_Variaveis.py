@@ -1,0 +1,5 @@
+print(1 + 12) #int()
+print(1.2 + 1 + 0.8) #float()
+print(True) #bool()
+print(False) #bool()
+print("Your name") #string()
